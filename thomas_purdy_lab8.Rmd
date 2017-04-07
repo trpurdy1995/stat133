@@ -7,4 +7,4 @@ output: html_document
 <!-- leave this material as is -->
 Compiled on `r date()`.
 
-This is my Lab 8.  Here are a few words.
+This is my Lab 8.  These are a few words.
